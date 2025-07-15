@@ -1,11 +1,11 @@
-# StudyNotion
+# StudyMantra
 
 An ed‑tech platform built with the MERN stack (ReactJS, NodeJS, MongoDB, ExpressJS).
 
 
 ## Project Description
 
-StudyNotion is a fully functional ed‑tech platform that enables users to create, consume, and rate educational content. The platform aims to provide:
+StudyMantra is a fully functional ed‑tech platform that enables users to create, consume, and rate educational content. The platform aims to provide:
 
 * A seamless and interactive learning experience for students, making education more accessible and engaging.
 * A platform for instructors to showcase their expertise and connect with learners across the globe.
@@ -26,7 +26,7 @@ In the following sections, we cover the technical details of the platform:
 
 ## System Architecture
 
-The StudyNotion ed‑tech platform consists of three main components:
+The StudyMantra ed‑tech platform consists of three main components:
 
 1. **Front‑end** (Client)
 2. **Back‑end** (Server)
@@ -177,4 +177,4 @@ These features will improve engagement, personalization, and reach.
 
 ## Conclusion
 
-StudyNotion is a versatile, intuitive ed‑tech platform designed to provide an immersive learning experience. Built on a robust MERN stack and deployed on modern cloud services, it’s ready for future growth and enhancements.
+StudyMantra is a versatile, intuitive ed‑tech platform designed to provide an immersive learning experience. Built on a robust MERN stack and deployed on modern cloud services, it’s ready for future growth and enhancements.
