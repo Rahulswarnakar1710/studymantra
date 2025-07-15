@@ -2,7 +2,6 @@
 
 An ed‑tech platform built with the MERN stack (ReactJS, NodeJS, MongoDB, ExpressJS).
 
-**CodeHelp | 17‑02‑2023**
 
 ## Project Description
 
